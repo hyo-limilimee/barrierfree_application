@@ -67,3 +67,4 @@ public class activity_sign_up extends AppCompatActivity {
     }
     
     //수정수정수정
+//브랜치에서 수정
