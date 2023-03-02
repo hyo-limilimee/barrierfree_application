@@ -60,9 +60,14 @@ public class activity_sign_up extends AppCompatActivity {
         }
 
         else
-            {
-                Toast.makeText(activity_sign_up.this, "아이디와 비밀번호를 확인해주세요.", Toast.LENGTH_SHORT).show();
+                {
+                    Toast.makeText(activity_sign_up.this, "아이디와 비밀번호를 확인해주세요.", Toast.LENGTH_SHORT).show();
             }
         }
     }
+<<<<<<< HEAD
 dkfdkfjkdlf
+=======
+    
+    //수정수정수정
+>>>>>>> eb8b866984addb353771311af27fbbef3d187324
