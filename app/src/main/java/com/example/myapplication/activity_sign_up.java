@@ -65,4 +65,9 @@ public class activity_sign_up extends AppCompatActivity {
             }
         }
     }
+<<<<<<< HEAD
 //ajksjdkajsdkjasd
+=======hhhhhh
+    
+    //수정수정수정
+>>>>>>> eb8b866984addb353771311af27fbbef3d187324
